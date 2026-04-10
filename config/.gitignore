@@ -1,0 +1,14 @@
+# Data folders (keep folder names, don't upload contents)
+data_raw/
+data_processed/
+
+# Python virtual environments / cache
+.venv/
+__pycache__/
+*.pyc
+
+# OS / editor noise
+Thumbs.db
+.DS_Store
+.vscode/
+``
