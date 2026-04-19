@@ -3,5 +3,7 @@
   "time_grain": "month",
   "start_year": 2016,
   "end_year": 2025,
-  "breakpoint_date": "2025-01-20"
+  "breakpoint_date": "2025-01-20",
+  "nws_user_agent": "weather-health-funding (contact: ematthews@outlook.com
+  "nws_area": "TX"
 }
