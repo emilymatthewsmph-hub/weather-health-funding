@@ -1,5 +1,7 @@
 # weather-health-funding
-initial project structure
+Planned Initiative
+Analysis on the impacts of fed funding to severe weather alerts and the associated ph outcomes ( goal to include injury, dz), with planned expansion looking at cost comparison of reduced budget vs paid event mcd, mcr claims + related FEMA spending This project will connect:
+
 
 # Weather + Health + Funding Dashboard
 
